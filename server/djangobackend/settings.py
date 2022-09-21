@@ -27,8 +27,8 @@ DEBUG = True
 
 APPEND_SLASH = True
 
-ALLOWED_HOSTS = ["127.0.0.1"]
-# mettre dand les host authorisé :  bestcarssmo.us-south.cf.appdomain.cloud
+ALLOWED_HOSTS = ["bestcars.us-east.cf.appdomain.cloud"]
+# mettre dand les host authorisé :  bestcars.us-east.cf.appdomain.cloud
 
 
 # Application definition
